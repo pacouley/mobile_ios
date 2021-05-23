@@ -1,0 +1,48 @@
+//{
+//  "project_info": {
+//    "project_number": "357385659776",
+//    "firebase_url": "https://rdv-app-d3255.firebaseio.com",
+//    "project_id": "rdv-app-d3255",
+//    "storage_bucket": "rdv-app-d3255.appspot.com"
+//  },
+//  "client": [
+//    {
+//      "client_info": {
+//        "mobilesdk_app_id": "1:357385659776:android:a82e6090cd3a93692c8d65",
+//        "android_client_info": {
+//          "package_name": "com.ArmelKragba.rdv_aapp"
+//        }
+//      },
+//      "oauth_client": [
+//        {
+//          "client_id": "357385659776-kv3sc72c8nhdjvb9s7ncm2ah9utf9i8m.apps.googleusercontent.com",
+//          "client_type": 1,
+//          "android_info": {
+//            "package_name": "com.ArmelKragba.rdv_aapp",
+//            "certificate_hash": "a0343608d7af8f0fbe0160d1cf3188090f29b08d"
+//          }
+//        },
+//        {
+//          "client_id": "357385659776-m2101mjbgoaih1qsq3hnn316q07fen2m.apps.googleusercontent.com",
+//          "client_type": 3
+//        }
+//      ],
+//      "api_key": [
+//        {
+//          "current_key": "AIzaSyDL2vbcxXTiDju15L689Co8NRFs3DCa9os"
+//        }
+//      ],
+//      "services": {
+//        "appinvite_service": {
+//          "other_platform_oauth_client": [
+//            {
+//              "client_id": "357385659776-m2101mjbgoaih1qsq3hnn316q07fen2m.apps.googleusercontent.com",
+//              "client_type": 3
+//            }
+//          ]
+//        }
+//      }
+//    }
+//  ],
+//  "configuration_version": "1"
+//}
